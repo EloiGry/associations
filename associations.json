@@ -1,0 +1,22 @@
+[
+    {   
+        "slug" : "unicef",
+        "name": "Unicef",
+        "slogan": "Unissons-nous pour les enfants",
+        "description" : "L’UNICEF est chargé par l’Assemblée générale des Nations Unies de défendre les droits des enfants, d’aider à répondre à leurs besoins essentiels et de favoriser leur plein épanouissement.",
+        "image" : "https://www.ladn.eu/wp-content/uploads/2018/09/unicef.jpg"
+
+    }, {
+        "slug" : "lesrestosducoeur",
+        "name" : "Les restos du coeur",
+        "slogan" : "On compte sur vous",
+        "description" : "Les Restos du cœur, sont une association loi de 1901 à but non lucratif et reconnue d'utilité publique, créée en France par Coluche en 1985.",
+        "image" : "https://upload.wikimedia.org/wikipedia/fr/thumb/a/ad/Restos_du_coeur_Logo.svg/1200px-Restos_du_coeur_Logo.svg.png"
+    }, {
+        "slug" : "konexio", 
+        "name" : "Konexio",
+        "slogan" : "Faire du numérique une opportunité pour toutes et tous",
+        "description" : "​L'équipe Konexio incarne un esprit résilient issu de divers parcours et des quatre coins du globe. Nous sommes des réfugiés, des migrants, des expatriés, des locaux, des hommes, des femmes, des jeunes et des moins jeunes, tous engagés dans l'inclusion numérique afin de valoriser et souligner le potentiel des publics vulnérables et leur offrir une insertion socio-professionnelle durable.",
+        "image" : "https://www.konexio.eu/uploads/1/2/0/2/120245745/konexio_logo.png"
+    }
+]
